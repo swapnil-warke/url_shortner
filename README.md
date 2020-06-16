@@ -2,8 +2,8 @@
 
 
 This is prototype of URL Shortning Service
-Each component is written in extensible way so that it can be easily separated and horizontally scaled.
-Unit test of components are written
+Each component is written in an extensible way so that it can be easily separated and horizontally scaled.
+Unit test of components are written.
 
 
 Refer High Level Design Doc:
